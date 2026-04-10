@@ -37,24 +37,21 @@ Main topics of the course include:
 
 ---
 
-# 📂 Repository Structure
+## 📂 Repository Structure
 
+```text
 softeng_2026
-│
 ├── README.md
-│
 ├── hw01
-│ └── assignment01.md
-│
+│   └── assignment01.md
 ├── hw02
-│ ├── even_odd.py
-│ ├── temperature_convert.py
-│ ├── prime_check.py
-│ ├── prime_numbers.py
-│ ├── factorial.py
-│ ├── even_sum.py
-│ └── gugudan.py
-│
+│   ├── even_odd.py
+│   ├── temperature_convert.py
+│   ├── prime_check.py
+│   ├── prime_numbers.py
+│   ├── factorial.py
+│   ├── even_sum.py
+│   └── gugudan.py
 ├── hw03
 ├── hw04
 ├── hw05
@@ -68,8 +65,7 @@ softeng_2026
 ├── hw13
 ├── hw14
 └── hw15
-
----
+```
 
 # 🗂 Weekly Assignments
 
